@@ -1,0 +1,127 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18f48e9d9453264da9a421bcfdceab6, type: 3}
+  m_Name: VimbimbrareTest
+  m_EditorClassIdentifier: 
+  npcName: "[f00]\u0412\u042B\u041C\u0411\u0418\u041C\u0411\u0420\u0410\u0420\u0415"
+  playerName: "[0008ff]\u0418\u043C\u044F \u0433\u0433 [ff00f7]\u0443\u0437\u043D\u0430\u0435\u0442\u0435
+    \u043F\u043E\u0437\u0436\u0435)"
+  npcPortrait: {fileID: -1291169306461079172, guid: feeddd296199ae541b9f7e530c5a57eb, type: 3}
+  playerPortrait: {fileID: -8987917987607314744, guid: 09c8e348ae517b3499e3c960f499cb2e, type: 3}
+  npcVoice: {fileID: 8300000, guid: 0803a0854f27c854e929e22c11d91103, type: 3}
+  playerVoice: {fileID: 8300000, guid: cf62bd8f4bffcfc47bcbdfbd98ff942b, type: 3}
+  npcWindowBackground: {fileID: 0}
+  playerWindowBackground: {fileID: 0}
+  startIndex: 0
+  lines:
+  - isPlayerSpeaking: 0
+    endDialogueOnThisLine: 0
+    nextLineIndex: 1
+    nodeId: 6250e93ec30011b45b1e9ed4ef61c991
+    nodePosition: {x: -321, y: -52}
+    text: "\u0432\u044B\u043C\u0431\u0438\u043C\u0431\u0440\u0430\u0440\u0435"
+    npcPortraitOverride: {fileID: -1291169306461079172, guid: feeddd296199ae541b9f7e530c5a57eb, type: 3}
+    playerPortraitOverride: {fileID: -8987917987607314744, guid: 09c8e348ae517b3499e3c960f499cb2e, type: 3}
+    npcNameOverride: ???
+    playerNameOverride: "[0008ff]\u0418\u043C\u044F \u0433\u0433 [ff00f7]\u0443\u0437\u043D\u0430\u0435\u0442\u0435
+      \u043F\u043E\u0437\u0436\u0435)"
+    npcVoiceOverride: {fileID: 0}
+    playerVoiceOverride: {fileID: 0}
+    choices: []
+  - isPlayerSpeaking: 1
+    endDialogueOnThisLine: 0
+    nextLineIndex: 2
+    nodeId: 4c06be3578fe19340b3187d332b67d07
+    nodePosition: {x: 94, y: -52}
+    text: "\u042D\u044D\u043C... \u041F\u0440\u0438\u0432\u0435\u0442? \u044D\u0442\u043E
+      \u0442\u0432\u043E\u0435 \u0438\u043C\u044F \u0438\u043B\u0438 \u0447\u043E?"
+    npcPortraitOverride: {fileID: -1291169306461079172, guid: feeddd296199ae541b9f7e530c5a57eb, type: 3}
+    playerPortraitOverride: {fileID: -8987917987607314744, guid: 09c8e348ae517b3499e3c960f499cb2e, type: 3}
+    npcNameOverride: "[f00]\u0412\u042B\u041C\u0411\u0418\u041C\u0411\u0420\u0410\u0420\u0415"
+    playerNameOverride: "[0008ff]\u0418\u043C\u044F \u0433\u0433 [ff00f7]\u0443\u0437\u043D\u0430\u0435\u0442\u0435
+      \u043F\u043E\u0437\u0436\u0435)"
+    npcVoiceOverride: {fileID: 0}
+    playerVoiceOverride: {fileID: 0}
+    choices: []
+  - isPlayerSpeaking: 0
+    endDialogueOnThisLine: 0
+    nextLineIndex: 3
+    nodeId: 729499bbf77405944b0d96423909d490
+    nodePosition: {x: 486, y: -52}
+    text: "[f00]\u0412\u042B\u041C\u0411\u0418\u041C\u0411\u0420\u0410\u0420\u0415\u0415\u0415\u0415\u0415\u0415!"
+    npcPortraitOverride: {fileID: -1291169306461079172, guid: feeddd296199ae541b9f7e530c5a57eb, type: 3}
+    playerPortraitOverride: {fileID: -8987917987607314744, guid: 09c8e348ae517b3499e3c960f499cb2e, type: 3}
+    npcNameOverride: "[f00]\u0412\u042B\u041C\u0411\u0418\u041C\u0411\u0420\u0410\u0420\u0415"
+    playerNameOverride: "[0008ff]\u0418\u043C\u044F \u0433\u0433 [ff00f7]\u0443\u0437\u043D\u0430\u0435\u0442\u0435
+      \u043F\u043E\u0437\u0436\u0435)"
+    npcVoiceOverride: {fileID: 0}
+    playerVoiceOverride: {fileID: 0}
+    choices: []
+  - isPlayerSpeaking: 1
+    endDialogueOnThisLine: 0
+    nextLineIndex: 4
+    nodeId: bf109540892d3664691a8777ad41ec94
+    nodePosition: {x: 894, y: -52}
+    text: "\u0410\u0410\u0410\u0410\u0410\u0410\u0410\u0410\u0410"
+    npcPortraitOverride: {fileID: -1291169306461079172, guid: feeddd296199ae541b9f7e530c5a57eb, type: 3}
+    playerPortraitOverride: {fileID: -8987917987607314744, guid: 09c8e348ae517b3499e3c960f499cb2e, type: 3}
+    npcNameOverride: "[f00]\u0412\u042B\u041C\u0411\u0418\u041C\u0411\u0420\u0410\u0420\u0415"
+    playerNameOverride: "[0008ff]\u0418\u043C\u044F \u0433\u0433 [ff00f7]\u0443\u0437\u043D\u0430\u0435\u0442\u0435
+      \u043F\u043E\u0437\u0436\u0435)"
+    npcVoiceOverride: {fileID: 0}
+    playerVoiceOverride: {fileID: 0}
+    choices:
+    - choiceText: "\u0412\u044B\u043C\u0431\u0438\u043C\u0431\u0440\u0430\u0440\u0435"
+      nextLineIndex: 4
+    - choiceText: "\u041D\u0435\u0432\u044B\u043C\u0431\u0438\u043C\u0431\u0440\u0430\u0440\u0435"
+      nextLineIndex: 5
+  - isPlayerSpeaking: 1
+    endDialogueOnThisLine: 1
+    nextLineIndex: 5
+    nodeId: 733f4aef9a470e247a590865b6cadfbf
+    nodePosition: {x: 1388, y: -376}
+    text: "\u0412\u044B\u043C\u0431\u0438\u043C\u0431\u0440\u0430\u0440\u0435"
+    npcPortraitOverride: {fileID: -1291169306461079172, guid: feeddd296199ae541b9f7e530c5a57eb, type: 3}
+    playerPortraitOverride: {fileID: -3986245633006983197, guid: 1791ee52b3c8fa5448bd1890d388a05e, type: 3}
+    npcNameOverride: "[f00]\u0412\u042B\u041C\u0411\u0418\u041C\u0411\u0420\u0410\u0420\u0415"
+    playerNameOverride: "[0008ff]\u0418\u043C\u044F \u0433\u0433 [ff00f7]\u0443\u0437\u043D\u0430\u0435\u0442\u0435
+      \u043F\u043E\u0437\u0436\u0435)"
+    npcVoiceOverride: {fileID: 0}
+    playerVoiceOverride: {fileID: 0}
+    choices: []
+  - isPlayerSpeaking: 1
+    endDialogueOnThisLine: 0
+    nextLineIndex: 6
+    nodeId: d3d35eddb66d7e84b98d8e366e32a1ab
+    nodePosition: {x: 1388, y: 0}
+    text: "\u041D\u0435\u0432\u044B\u043C\u0431\u0438\u043C\u0431\u0440\u0430\u0440\u0435"
+    npcPortraitOverride: {fileID: -1291169306461079172, guid: feeddd296199ae541b9f7e530c5a57eb, type: 3}
+    playerPortraitOverride: {fileID: -8987917987607314744, guid: 09c8e348ae517b3499e3c960f499cb2e, type: 3}
+    npcNameOverride: "[f00]\u0412\u042B\u041C\u0411\u0418\u041C\u0411\u0420\u0410\u0420\u0415"
+    playerNameOverride: "[0008ff]\u0418\u043C\u044F \u0433\u0433 [ff00f7]\u0443\u0437\u043D\u0430\u0435\u0442\u0435
+      \u043F\u043E\u0437\u0436\u0435)"
+    npcVoiceOverride: {fileID: 0}
+    playerVoiceOverride: {fileID: 0}
+    choices: []
+  - isPlayerSpeaking: 0
+    endDialogueOnThisLine: 1
+    nextLineIndex: -1
+    nodeId: 59301d8b681ff5f4b9cda7ee85944748
+    nodePosition: {x: 1812, y: -11}
+    text: "\u0423 \u0442\u043E\u044F \u043C\u0430\u0442\u044C \u0448\u043B\u044E\u0445\u0430"
+    npcPortraitOverride: {fileID: -1291169306461079172, guid: feeddd296199ae541b9f7e530c5a57eb, type: 3}
+    playerPortraitOverride: {fileID: -8987917987607314744, guid: 09c8e348ae517b3499e3c960f499cb2e, type: 3}
+    npcNameOverride: "[f00]\u0412\u042B\u041C\u0411\u0418\u041C\u0411\u0420\u0410\u0420\u0415"
+    playerNameOverride: "[0008ff]\u041B\u044E\u0431[ff00f7]\u043E\u0432\u044C"
+    npcVoiceOverride: {fileID: 0}
+    playerVoiceOverride: {fileID: 0}
+    choices: []
